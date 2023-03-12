@@ -36,8 +36,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-**/tf-cloud-init
-**/tf-cloud-init.pub
+**/key
+**/*.pub
 
+**/tf-cloud-init
 **/tf-packer
-**/tf-packer.pub
